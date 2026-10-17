@@ -1,0 +1,84 @@
+NAME	DESCRIPTION	LOW_COMORBIDITY
+Behavioral_1	Behavioral health issues (including substance use disorders)	0
+Behavioral_2	Behavioral health issues (including substance use disorders)	0
+Behavioral_4	Behavioral health issues (including substance use disorders)	0
+Behavioral_5	Behavioral health issues (including substance use disorders)	0
+Behavioral_6	Behavioral health issues (including substance use disorders)	0
+Behavioral_7	Behavioral health issues (including substance use disorders)	0
+Cerebral_1	Cerebral vascular disease	0
+Cerebral_2	Cerebral vascular disease	0
+Cerebral_4	Includes sequelae of cerebral vascular diseases	1
+Circulatory_1	Circulatory disease	0
+Circulatory_10	Includes varicose veins with ulceration	1
+Circulatory_2	Circulatory disease	0
+Circulatory_3	Circulatory disease	0
+Circulatory_4	Include hypertensive chronic kidney disease	1
+Circulatory_7	Circulatory disease	0
+Circulatory_9	Includes acute and chronic embolisms and thrombosis	1
+Endocrine_1	Endocrine disease	0
+Endocrine_2	Diabetes due to a Known Underlying Condition	1
+Endocrine_3	Endocrine disease	0
+Endocrine_4	Endocrine disease	0
+Endocrine_5	Endocrine disease	0
+Gastrointestinal_1	Gastrointestinal disease	0
+Gastrointestinal_2	Gastrointestinal disease	0
+Gastrointestinal_4	Gastrointestinal disease	0
+Gastrointestinal_5	Gastrointestinal disease	0
+Gastrointestinal_6	Gastrointestinal disease	0
+Gastrointestinal_8	Gastrointestinal disease	0
+Heart_10	Heart disease	0
+Heart_11	Includes heart failure	1
+Heart_12	Heart disease	0
+Heart_3	Heart disease	0
+Heart_5	Heart disease	0
+Heart_7	Heart disease	0
+Heart_8	Heart disease	0
+Heart_9	Heart disease	0
+Infectious_1	Infectious diseases	0
+Musculoskeletal_1	Musculoskeletal disease	0
+Musculoskeletal_2	Musculoskeletal disease	0
+Musculoskeletal_3	Musculoskeletal disease	0
+Musculoskeletal_4	Musculoskeletal disease	0
+Neoplasms_1	Includes oral cancers	1
+Neoplasms_10	Neoplasms	0
+Neoplasms_11	Neoplasms	0
+Neoplasms_12	Neoplasms	0
+Neoplasms_13	Neoplasms	0
+Neoplasms_14	Neoplasms	0
+Neoplasms_15	Neoplasms	0
+Neoplasms_16	Neoplasms	0
+Neoplasms_17	Neoplasms	0
+Neoplasms_18	Neoplasms	0
+Neoplasms_2	Neoplasms	0
+Neoplasms_20	Neoplasms	0
+Neoplasms_21	Neoplasms	0
+Neoplasms_22	Neoplasms	0
+Neoplasms_23	Neoplasms	0
+Neoplasms_24	Neoplasms	0
+Neoplasms_3	Neoplasms	0
+Neoplasms_4	Neoplasms	0
+Neoplasms_6	Neoplasms	0
+Neoplasms_7	Neoplasms	0
+Neoplasms_8	Neoplasms	0
+Neoplasms_9	Neoplasms	0
+Neurological_10	Includes peripheral and polyneuropathies	1
+Neurological_11	Neurological conditions	0
+Neurological_3	Neurological conditions	0
+Neurological_4	Neurological conditions	0
+Neurological_5	Includes Parkinson's disease	1
+Neurological_6	Neurological conditions	0
+Neurological_7	Includes hemiplegia, paraplegia, and quadriplegia	1
+Neurological_8	Neurological conditions	0
+No_group	No group assigned	0
+Renal_1	Genitourinary/Renal disease	0
+Renal_3	Genitourinary/Renal disease	0
+Respiratory_10	Respiratory disease	1
+Respiratory_2	Respiratory disease	0
+Respiratory_3	Respiratory disease	0
+Respiratory_4	Respiratory disease	0
+Respiratory_5	Respiratory disease	0
+Respiratory_9	Respiratory disease	0
+Skin_1	Includes cutaneous abscess, cellulitis, lymphangitis	1
+Skin_3	Includes diseases of arteries, arterioles, and capillaries with ulceration and non-pressure, chronic ulcers	1
+Skin_4	Includes Stages Two through Four and Unstageable pressure ulcers	1
+Skin_5	Skin disease	0

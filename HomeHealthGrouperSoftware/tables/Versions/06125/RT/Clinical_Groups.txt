@@ -1,0 +1,14 @@
+ID	NAME	DESCRIPTION	LOW_POINT	HIGH_POINT
+A	MMTA_OTHER	MMTA - Other	28	44
+B	NEURO_REHAB	Neuro Rehabilitation	33	50
+C	WOUND	Wound	32	49
+D	COMPLEX	Complex Nursing Interventions	29	53
+E	MS_REHAB	Musculoskeletal Rehabilitation	29	44
+F	BEHAVE_HEALTH	Behavioral Health	28	45
+G	MMTA_AFTER	MMTA - Surgical Aftercare	27	41
+H	MMTA_CARDIAC	MMTA - Cardiac and Circulatory	27	41
+I	MMTA_ENDO	MMTA - Endocrine	27	41
+J	MMTA_GI_GU	MMTA - Gastrointestinal tract and Genitourinary system	32	48
+K	MMTA_INFECT	MMTA - Infectious Disease, Neoplasms, and Blood-Forming Diseases	31	45
+L	MMTA_RESP	MMTA - Respiratory	32	45
+NA	NO_GROUP	No Group Assigned	-1	-1

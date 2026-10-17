@@ -1,0 +1,15 @@
+RETURN_CODE	DESCRIPTION
+00	Grouping successful
+01	From date out of range
+02	Invalid Period Timing
+03	Invalid or blank pdx
+05	No clinical group assigned for PDX; the pdx is either not a reason for a Home Health period of care, or it is a manifestation code, an unacceptable pdx or an external cause of injury code
+07	Invalid or inconsistent value for FUNCTIONAL IMPAIRMENT  HOSPITALIZATION RISK field
+08	Invalid value for FUNCTIONAL IMPAIRMENT GROOMING field
+09	Invalid value for FUNCTIONAL IMPAIRMENT DRESS UPPER field
+10	Invalid value for FUNCTIONAL IMPAIRMENT DRESS LOWER field
+11	Invalid value for FUNCTIONAL IMPAIRMENT BATHING field
+12	Invalid value for FUNCTIONAL IMPAIRMENT TOILETING field
+13	Invalid value for FUNCTIONAL IMPAIRMENT TRANSFERRING field
+14	Invalid value for FUNCTIONAL IMPAIRMENT AMBULATION field
+50	Fatal error - Component corrupted or not set up or other internal error

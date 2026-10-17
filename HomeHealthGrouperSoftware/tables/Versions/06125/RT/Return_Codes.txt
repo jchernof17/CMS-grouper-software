@@ -1,0 +1,15 @@
+RETURN_CODE	DESCRIPTION
+00	Grouping successful
+01	From or Through Date Error
+02	Invalid Period Timing
+03	Other principal diagnosis code error
+05	Principal diagnosis not assigned to a clinical group
+07	Invalid or inconsistent value for FUNCTIONAL IMPAIRMENT  HOSPITALIZATION RISK field
+08	Invalid value for FUNCTIONAL IMPAIRMENT GROOMING field
+09	Invalid value for FUNCTIONAL IMPAIRMENT DRESS UPPER field
+10	Invalid value for FUNCTIONAL IMPAIRMENT DRESS LOWER field
+11	Invalid value for FUNCTIONAL IMPAIRMENT BATHING field
+12	Invalid value for FUNCTIONAL IMPAIRMENT TOILETING field
+13	Invalid value for FUNCTIONAL IMPAIRMENT TRANSFERRING field
+14	Invalid value for FUNCTIONAL IMPAIRMENT AMBULATION field
+50	Fatal error - Component corrupted or not set up or other internal error

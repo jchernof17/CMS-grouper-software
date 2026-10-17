@@ -1,0 +1,34 @@
+ID	NAME	FIELD_TYPE	FIELD_POSITION	FIELD_LENGTH	FIELD_COUNT	SOURCE	DESCRIPTION
+1	Claim ID	Input	1	24	1	Claim	Patient Claim ID
+2	From Date	Input	25	8	1	Claim	Claim From Date
+3	Period Timing	Input	33	1	1	FISS	Determination of Initial or subsequent period
+4	Referral Source	Input	34	2	1	Claim	Determination of beneficiary referral to HHA
+5	Principal Diagnosis	Input	36	8	1	Claim	ICD-10-CM Principal Diagnosis
+6	Secondary Diagnosis	Input	44	8	24	Claim	ICD-10-CM Secondary Diagnoses
+7	Filler - Item 1	Input	236	8	5	N/A	For future diagnosis use
+8	M1033-HOSP-RISK-HSTRY-FALLS	Input	276	1	1	FISS	Risk for hospitalization – falls
+9	M1033-HOSP-RISK-WEIGHT-LOSS	Input	277	1	1	FISS	Risk for hospitalization – weight loss
+10	M1033-HOSP-RISK-MLTPL-HOSPZTN	Input	278	1	1	FISS	Risk for hospitalization – multiple hospitalizations
+11	M1033-HOSP-RISK-MLTPL-ED-VISIT	Input	279	1	1	FISS	Risk for hospitalization – multiple emergency department visits
+12	M1033-HOSP-RISK-MNTL-BHV-DCLN	Input	280	1	1	FISS	Risk for hospitalization – mental behavior decline
+13	M1033-HOSP-RISK-COMPLIANCE	Input	281	1	1	FISS	Risk for hospitalization – compliance
+14	M1033-HOSP-RISK-5PLUS-MDCTN	Input	282	1	1	FISS	Risk for hospitalization – currently taking 5 or more medications
+15	M1033-HOSP-RISK-CRNT-EXHSTN	Input	283	1	1	FISS	Risk for hospitalization – exhaustion
+16	M1033-HOSP-RISK-OTHR-RISK	Input	284	1	1	FISS	Risk for hospitalization – other risks
+17	M1033-HOSP-RISK-NONE-ABOVE	Input	285	1	1	FISS	Risk for hospitalization – none of the above
+18	M1800-CRNT-GROOMING	Input	286	2	1	FISS	Grooming
+19	M1810-CRNT-DRESS-UPPER	Input	288	2	1	FISS	Dress upper body
+20	M1820-CRNT-DRESS-LOWER	Input	290	2	1	FISS	Dress lower body
+21	M1830-CRNT-BATHG	Input	292	2	1	FISS	Bathing
+22	M1840-CRNT-TOILTG	Input	294	2	1	FISS	Toileting
+23	M1850-CRNT-TRNSFRNG	Input	296	2	1	FISS	Transferring
+24	M1860-CRNT-AMBLTN	Input	298	2	1	FISS	Ambulation
+25	FILLER-Item 2	Input	300	50	1	N/A	For future use
+26	Through Date	Input	350	8	1	Claim	Claim Through Date
+27	FILLER-Item 3	Input	358	242	1	N/A	For future use
+28	Action flag	Input	600	1	1	N/A	"""For internal use only ('D' or 'Y'  - generate detail report, 'S' - skip record)"""
+29	Version Used	Output	601	7	1	Grouper Input	Version defining the grouper used to produce the HIPPS code
+30	HIPPS Code	Output	608	5	1	Grouper Input	5-digit alphanumeric code defining grouping results
+31	Validity Flag	Output	613	2	1	Grouper Input	Identifies clinical or functional issues that impact production of HIPPS code (ungroupable)
+32	Grouper Return Code	Output	615	2	1	Grouper Input	Identifies technical or fatal error issues that terminate grouping (ungroupable)
+33	FILLER - Item 4	Output	617	83	1	N/A	For future use

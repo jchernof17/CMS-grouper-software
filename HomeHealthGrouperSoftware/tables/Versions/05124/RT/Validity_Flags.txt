@@ -1,0 +1,16 @@
+VALIDITY_FLAG	DESCRIPTION
+01	Unacceptable principal diagnosis, code is not reportable as principal diagnosis
+02	Manifestation code is not reportable as principal diagnosis
+03	Unspecified diagnosis code not acceptable as principal diagnosis since there is a more specific code available that would further accurately identify the condition
+04	External cause of injury code not reportable as principal diagnosis
+05	Principal diagnosis has a code first convention indicating that there is a secondary condition present which may need to be sequenced first
+06	Principal diagnosis code is not valid for claim dates
+07	No principal diagnosis code reported for claim dates
+08	From date was not reported (field was left blank)
+09	From Date is invalid
+10	From Date is out of date range for HH grouper
+11	Through date was not reported (field was left blank)
+12	Through date is invalid
+13	Through date precedes the reported From date
+14	The Through date reported exceeds the Home Health period of care threshold of 30 days
+15	Home Health period of care shorter than 30 days

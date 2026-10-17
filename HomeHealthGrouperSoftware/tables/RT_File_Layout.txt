@@ -1,0 +1,55 @@
+TABLE_NAME,COLUMN_NAME,COMMENTS
+CLAIM_LAYOUT,ID,Numeric identifier for the claim field
+CLAIM_LAYOUT,NAME,Name of the claim field
+CLAIM_LAYOUT,FIELD_TYPE,The data type of the claim field value
+CLAIM_LAYOUT,FIELD_POSITION,The column offset of the field
+CLAIM_LAYOUT,FIELD_LENGTH,The maximum length of the field value
+CLAIM_LAYOUT,FIELD_COUNT,The number of repetitions of the field (for array values)
+CLAIM_LAYOUT,SOURCE,The original of the field value
+CLAIM_LAYOUT,DESCRIPTION,Description of the claim field
+CLINICAL_GROUP,ID,Clinical group alphabetic identifier
+CLINICAL_GROUP,NAME,Clinical group name
+CLINICAL_GROUP,DESCRIPTION,Clinical group description
+CLINICAL_GROUP,LOW_POINT,Clinical group functional impairment level threshold LOW points (INCLUSIVE)
+CLINICAL_GROUP,HIGH_POINT,Clinical group functional impairment level threshold HIGH points (INCLUSIVE)
+CODE_FIRST_CONDITION,ID,Numeric identifier for the code first condition
+CODE_FIRST_CONDITION,DESCRIPTION,Code first condition description
+CODE_FIRST_CONDITION,CONDITION,Code first condition value
+COMORBIDITY_GROUP,NAME,Comorbidity group name
+COMORBIDITY_GROUP,DESCRIPTION,Comorbidity group description
+COMORBIDITY_GROUP,LOW_COMORBIDITY,Comorbidity group low comorbidity flag
+COMORBIDITY_INTERACTION,ID,Comorbidity interaction identifier
+COMORBIDITY_INTERACTION,DESCRIPTION,Comorbidity interaction description
+COMORBIDITY_INTERACTION,GROUP1,Comorbidity interaction pair comorbidity subgroup 1
+COMORBIDITY_INTERACTION,GROUP2,Comorbidity interaction pair comorbidity subgroup 2
+DIAGNOSIS_CODE,DIAGNOSIS,Diagnosis code value
+DIAGNOSIS_CODE,DESCRIPTION,Diagnosis code description
+DIAGNOSIS_CODE,TABULAR_INDEX,Diagnosis code tabular index
+DIAGNOSIS_CODE,CLINICAL_GROUP,Diagnosis code clinical group
+DIAGNOSIS_CODE,SUBCHAPTER,Diagnosis code subchapter
+DIAGNOSIS_CODE,COMORBIDITY_GROUP,Diagnosis code comorbidity group
+DIAGNOSIS_CODE,MANIFESTATION_FLAG,Diagnosis code manifestation flag
+DIAGNOSIS_CODE,PRIMARY_AWARDING_FLAG,Diagnosis code primary awarding flag
+DIAGNOSIS_CODE,ECOI_FLAG,Diagnosis code external cause of injury flag
+DIAGNOSIS_CODE,CODE_FIRST,Diagnosis code first condition identifier
+DIAGNOSIS_CODE,UNACCEPTABLE_PDX,Diagnosis code unacceptable pdx flag
+DIAGNOSIS_CODE,UNSPECIFIED_PDX,Diagnosis code unspecified pdx flag
+DIAGNOSIS_CODE,PREDECESSOR_DX,Diagnosis predecessor code value
+DIAGNOSIS_SUBCHAPTER,ID,Diagnosis subchapter identifier
+DIAGNOSIS_SUBCHAPTER,DX_FROM,Diagnosis subchapter range: DX from
+DIAGNOSIS_SUBCHAPTER,DX_TO,Diagnosis subchapter range: DX to
+DIAGNOSIS_SUBCHAPTER,DESCRIPTION,Diagnosis subchapter description
+FUNCTIONAL_IMPAIRMENT_RESPONSE,FIELD,Functional impairment field identifier
+FUNCTIONAL_IMPAIRMENT_RESPONSE,DESCRIPTION,Functional impairment field description
+FUNCTIONAL_IMPAIRMENT_RESPONSE,RESPONSE,Functional impairment field response
+FUNCTIONAL_IMPAIRMENT_RESPONSE,RESPONSE_CATEGORY,Functional impairment field response category
+FUNCTIONAL_IMPAIRMENT_RESPONSE,RESPONSE_LIMIT,Functional impairment field response point limit
+FUNCTIONAL_IMPAIRMENT_RESPONSE,RESPONSE_CATEGORY_POINT,Functional impairment field response category points
+HIPPS_STRUCTURE,POSITION,HIPPS structure position number
+HIPPS_STRUCTURE,POSITION_DESCRIPTION,HIPPS structure position description
+HIPPS_STRUCTURE,VALUE,HIPPS structure position value
+HIPPS_STRUCTURE,VALUE_DESCRIPTION,HIPPS structure position value description
+RETURN_CODE,RETURN_CODE,Return code value
+RETURN_CODE,DESCRIPTION,Return code description
+VALIDITY_FLAG,VALIDITY_FLAG,Validity flag value
+VALIDITY_FLAG,DESCRIPTION,Validity flag description

@@ -1,0 +1,24 @@
+POSITION	POSITION_DESCRIPTION	VALUE	VALUE_DESCRIPTION
+1	Source & Timing	1	Community Early
+1	Source & Timing	2	Institutional Early
+1	Source & Timing	3	Community Late
+1	Source & Timing	4	Institutional Late
+2	Clinical Group	A	MMTA - Other
+2	Clinical Group	B	Neuro Rehabilitation
+2	Clinical Group	C	Wound
+2	Clinical Group	D	Complex Nursing Interventions
+2	Clinical Group	E	Musculoskeletal Rehabilitation
+2	Clinical Group	F	Behavioral Health
+2	Clinical Group	G	MMTA - Surgical Aftercare
+2	Clinical Group	H	MMTA - Cardiac and Circulatory
+2	Clinical Group	I	MMTA - Endocrine
+2	Clinical Group	J	MMTA - Gastrointestinal tract and Genitourinary system
+2	Clinical Group	K	MMTA - Infectious Disease, Neoplasms, and Blood-Forming Diseases
+2	Clinical Group	L	MMTA - Respiratory
+3	Functional Level	A	Low
+3	Functional Level	B	Medium
+3	Functional Level	C	High
+4	Comorbidity	1	No comorbidity
+4	Comorbidity	2	Low comorbidity
+4	Comorbidity	3	High comorbidity
+5	Placeholder	1	Placeholder

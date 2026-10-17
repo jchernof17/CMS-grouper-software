@@ -1,0 +1,8 @@
+VALIDITY_FLAG	DESCRIPTION
+01	Unacceptable primary diagnosis, not reportable as primary
+02	Manifestation code not reportable as primary diagnosis
+03	Unspecified diagnosis code not acceptable as primary diagnosis
+04	External cause of injury code not reportable as primary diagnosis
+05	Code First with Condition PDX
+06	Primary diagnosis code is not valid for claim dates
+07	No primary diagnosis code reported for claim dates
